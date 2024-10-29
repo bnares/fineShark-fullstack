@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|c:\\users\\piotr\\onedrive\\pulpit\\wepapp\\fineshark\\apivisualstudio\\finsharkapi\\finsharkapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|solutionrelative:finsharkapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|c:\\users\\piotr\\onedrive\\pulpit\\wepapp\\fineshark\\apivisualstudio\\finsharkapi\\finsharkapi\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|solutionrelative:finsharkapi\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|c:\\users\\piotr\\onedrive\\pulpit\\wepapp\\fineshark\\apivisualstudio\\finsharkapi\\finsharkapi\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|solutionrelative:finsharkapi\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|c:\\users\\piotr\\onedrive\\pulpit\\wepapp\\fineshark\\apivisualstudio\\finsharkapi\\finsharkapi\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|solutionrelative:finsharkapi\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|c:\\users\\piotr\\onedrive\\pulpit\\wepapp\\fineshark\\apivisualstudio\\finsharkapi\\finsharkapi\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF717ECD-4005-47A8-95EF-4B83B894516D}|finSharkApi\\finSharkApi.csproj|solutionrelative:finsharkapi\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "finSharkApi\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Models\\Portfolio.cs",
+              "RelativeToolTip": "finSharkApi\\Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:44:12.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "finSharkApi\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "finSharkApi\\Controllers\\PortfolioController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:06:21.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Repository\\PortfolioRepository.cs",
+              "RelativeDocumentMoniker": "finSharkApi\\Repository\\PortfolioRepository.cs",
+              "ToolTip": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Repository\\PortfolioRepository.cs",
+              "RelativeToolTip": "finSharkApi\\Repository\\PortfolioRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:42:00.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Program.cs",
+              "RelativeDocumentMoniker": "finSharkApi\\Program.cs",
+              "ToolTip": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Program.cs",
+              "RelativeToolTip": "finSharkApi\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAH8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:07:19.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "finSharkApi\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\piotr\\OneDrive\\Pulpit\\WepApp\\FineShark\\apiVisualStudio\\finSharkApi\\finSharkApi\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "finSharkApi\\Repository\\StockRepository.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAA7wFsAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:36:29.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
